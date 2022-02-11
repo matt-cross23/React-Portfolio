@@ -1,12 +1,25 @@
 .header {
-  background: #f9b713;
+  background: skyblue;
   height: 200px;
+  display: flex;
+}
+.header{
+  flex-wrap: nowrap;
 }
 
 .header h1 {
-  margin: 0;
+  margin: 10px;
   padding-top: 75px;
-  text-align: center;
+  text-align: left;
   color: white;
   font-size: 3rem;
+  justify-content: space-between;
+ 
+  
+}
+
+.header h2{
+  text-align: center;
+  margin-left: 15px;
+  padding: 2px;
 }

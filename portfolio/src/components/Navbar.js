@@ -5,14 +5,14 @@ import React from 'react';
 const styles = {
   card: {
     margin: 20,
-    background: '#e8eaf6',
+    background: '#000000',
   },
   heading: {
-    background: '#9a74db',
+    background: '##000000',
     minHeight: 50,
     lineHeight: 3.5,
     fontSize: '1.2rem',
-    color: 'white',
+    color: 'blue',
     padding: '0 50px',
   },
 };
@@ -22,6 +22,7 @@ function Navbar() {
   return (
     <div style={styles.card}>
       <div style={styles.heading}>Home</div>
+      <div style={styles.heading}>About me!</div>
     </div>
   );
 }
