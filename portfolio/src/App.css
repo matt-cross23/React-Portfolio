@@ -9,10 +9,9 @@
 }
 
 body {
-  background-image: url('https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-electronic-technology-website-texture-background-banner-image_156039.jpg');
-  background-repeat: repeat;
-  background-size: 250px;
-  border: 2px solid;
+  background-image: url('https://media.istockphoto.com/photos/the-perfect-setting-to-complete-work-picture-id1251629816?b=1&k=20&m=1251629816&s=170667a&w=0&h=HFCKUXMAXu_gsKwAaVJ5Yfc5CpXhkok4Nu1KigsAXIQ=');
+  background-repeat: repeat-y;
+  background-size: 1350px;
 
 }
 ul{
@@ -20,13 +19,14 @@ ul{
 }
 ul>h1{
 position: relative;
-right: 80;
+right: 80px;
 }
 footer{
   padding: 10px;
+  
 }
 
 p{
-  color: #ba860d;
+  color: #F5F5DC	;
   padding: 10px;
 }
