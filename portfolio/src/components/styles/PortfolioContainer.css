@@ -1,0 +1,11 @@
+
+  .header{
+    flex-wrap: nowrap;
+  }
+
+  .header h2{
+    text-align: center;
+    margin-left: 15px;
+    padding: 2px;
+  }
+  

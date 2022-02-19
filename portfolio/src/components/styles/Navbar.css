@@ -1,0 +1,31 @@
+.nav{
+    background: whitesmoke;
+    height: 90px;
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    justify-content: space-around;
+
+    
+  }
+  h1{
+      font-size: x-large;
+      margin-right: 20px;
+      text-align: center;
+  }
+  
+  .nav-item a {
+    color: darkblue;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 20px;
+    line-height: 3;
+    gap: 20%;
+
+  }
+  li{
+      list-style: none;
+      margin: 10px;
+  }
+
+  
