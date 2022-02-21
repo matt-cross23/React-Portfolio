@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolioCross/static/css/main.a0e0a7e4.css",
+    "main.js": "/ReactPortfolioCross/static/js/main.f2b8575a.js",
+    "index.html": "/ReactPortfolioCross/index.html",
+    "main.a0e0a7e4.css.map": "/ReactPortfolioCross/static/css/main.a0e0a7e4.css.map",
+    "main.f2b8575a.js.map": "/ReactPortfolioCross/static/js/main.f2b8575a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0e0a7e4.css",
+    "static/js/main.f2b8575a.js"
+  ]
+}
