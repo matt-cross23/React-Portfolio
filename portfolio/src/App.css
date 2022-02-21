@@ -26,7 +26,15 @@ footer{
   
 }
 
-p{
+.t{
   color: #F5F5DC	;
   padding: 10px;
+}
+
+ul{
+  display: flex;
+}
+
+li> img{
+flex-direction: row;
 }

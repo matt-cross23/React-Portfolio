@@ -1,6 +1,7 @@
 
   .header{
     flex-wrap: nowrap;
+    color: aliceblue;
   }
 
   .header h2{
@@ -19,4 +20,16 @@
     padding: 10px;
     justify-content: center;
     margin-top: 100px;
+  }
+
+  .form-text{
+    color: aliceblue;
+  }
+  .textarea{
+    width: 120px;
+    height: 100px;
+  }
+
+  a{
+    color: aliceblue;
   }
